@@ -1,0 +1,5 @@
+about to execute ../../snifit/jdk1.7.0_80/bin/jps -v 
+about to execute ../../snifit/jdk1.7.0_80/bin/jmap -histo:live 122538
+about to execute ../../snifit/jdk1.7.0_80/bin/jmap -histo:live 7469
+about to execute ../../snifit/jdk1.7.0_80/bin/jmap -histo:live 7443
+about to execute ../../snifit/jdk1.7.0_80/bin/jmap -histo:live 11401

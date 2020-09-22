@@ -1,0 +1,288 @@
+**** start dump @Tue Sep 22 15:24:52 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:          4071         323496  [C
+   2:          1364         154672  java.lang.Class
+   3:          4065          97560  java.lang.String
+   4:          1274          68728  [Ljava.lang.Object;
+   5:           299          59520  [B
+   6:           636          39800  [I
+   7:           725          23200  java.util.HashMap$Node
+   8:           489          15648  java.util.concurrent.ConcurrentHashMap$Node
+   9:           434          13888  java.util.Hashtable$Entry
+  10:           297          11880  java.util.LinkedHashMap$Entry
+  11:            81          11680  [Ljava.util.HashMap$Node;
+  12:           201          11256  java.lang.invoke.MemberName
+  13:           277          11080  java.lang.ref.SoftReference
+  14:           341          10912  sun.misc.FDBigInteger
+  15:           155           9920  java.net.URL
+  16:           534           8544  java.lang.Object
+  17:           196           7840  java.lang.ref.Finalizer
+  18:           267           6408  java.lang.Long
+Total         21567        1112208
+**** end dump @Tue Sep 22 15:24:53 IDT 2020
+**** start dump @Tue Sep 22 15:24:53 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:          4130         325920  [C
+   2:          1368         155088  java.lang.Class
+   3:          4120          98880  java.lang.String
+   4:          1266          68152  [Ljava.lang.Object;
+   5:           281          59088  [B
+   6:           638          39344  [I
+   7:           725          23200  java.util.HashMap$Node
+   8:           489          15648  java.util.concurrent.ConcurrentHashMap$Node
+   9:           162          14256  java.lang.reflect.Method
+  10:           434          13888  java.util.Hashtable$Entry
+  11:           297          11880  java.util.LinkedHashMap$Entry
+  12:            81          11680  [Ljava.util.HashMap$Node;
+  13:           201          11256  java.lang.invoke.MemberName
+  14:           281          11240  java.lang.ref.SoftReference
+  15:           341          10912  sun.misc.FDBigInteger
+  16:           155           9920  java.net.URL
+  17:           321           8776  [Ljava.lang.Class;
+  18:           176           7040  java.lang.ref.Finalizer
+Total         21806        1126712
+**** end dump @Tue Sep 22 15:24:53 IDT 2020
+**** start dump @Tue Sep 22 15:24:53 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:         11763        1511936  <methodKlass>
+   2:         11763        1446144  <constMethodKlass>
+   3:           999        1099672  <constantPoolKlass>
+   4:           926         693152  <constantPoolCacheKlass>
+   5:           999         674728  <instanceKlassKlass>
+   6:          2918         249024  [C
+   7:          1549         218120  [B
+   8:          1104         107240  java.lang.Class
+   9:          1586          94528  [S
+  10:          1573          88024  [[I
+  11:          2877          69048  java.lang.String
+  12:            88          47872  <objArrayKlassKlass>
+  13:            56          31376  <methodDataKlass>
+  14:           439          22248  [Ljava.lang.Object;
+  15:           443          14176  java.util.HashMap$Entry
+  16:           174          13920  java.lang.reflect.Method
+  17:           389          12448  java.util.Hashtable$Entry
+  18:           145           9280  java.net.URL
+Total         45547        6617984
+**** end dump @Tue Sep 22 15:24:53 IDT 2020
+**** start dump @Tue Sep 22 15:24:53 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:          7585         976896  <methodKlass>
+   2:          7585         891600  <constMethodKlass>
+   3:           549         628744  <constantPoolKlass>
+   4:           504         384896  <constantPoolCacheKlass>
+   5:           549         373848  <instanceKlassKlass>
+   6:          2544         199384  [C
+   7:           914         189560  [B
+   8:           624          61056  java.lang.Class
+   9:          2520          60480  java.lang.String
+  10:           874          54648  [[I
+  11:           868          51672  [S
+  12:            58          31552  <objArrayKlassKlass>
+  13:           614          24560  java.util.LinkedHashMap$Entry
+  14:           318          13440  [Ljava.lang.Object;
+  15:            13           9904  <methodDataKlass>
+  16:           122           8784  java.lang.reflect.Field
+  17:           230           7928  [Ljava.lang.String;
+  18:           256           6144  java.lang.Long
+Total         28696        4055248
+**** end dump @Tue Sep 22 15:24:54 IDT 2020
+**** start dump @Tue Sep 22 15:25:54 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:          4122         325720  [C
+   2:          1365         154776  java.lang.Class
+   3:          4115          98760  java.lang.String
+   4:          1226          66008  [Ljava.lang.Object;
+   5:           249          58320  [B
+   6:           637          39816  [I
+   7:           725          23200  java.util.HashMap$Node
+   8:           489          15648  java.util.concurrent.ConcurrentHashMap$Node
+   9:           434          13888  java.util.Hashtable$Entry
+  10:           151          13288  java.lang.reflect.Method
+  11:           297          11880  java.util.LinkedHashMap$Entry
+  12:            81          11680  [Ljava.util.HashMap$Node;
+  13:           201          11256  java.lang.invoke.MemberName
+  14:           278          11120  java.lang.ref.SoftReference
+  15:           341          10912  sun.misc.FDBigInteger
+  16:           155           9920  java.net.URL
+  17:           296           8312  [Ljava.lang.Class;
+  18:           269           6456  java.lang.Long
+Total         21100        1100736
+**** end dump @Tue Sep 22 15:25:54 IDT 2020
+**** start dump @Tue Sep 22 15:25:54 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:          4069         323344  [C
+   2:          1365         154776  java.lang.Class
+   3:          4062          97488  java.lang.String
+   4:          1226          66008  [Ljava.lang.Object;
+   5:           248          58296  [B
+   6:           635          39264  [I
+   7:           725          23200  java.util.HashMap$Node
+   8:           489          15648  java.util.concurrent.ConcurrentHashMap$Node
+   9:           434          13888  java.util.Hashtable$Entry
+  10:           297          11880  java.util.LinkedHashMap$Entry
+  11:            81          11680  [Ljava.util.HashMap$Node;
+  12:           201          11256  java.lang.invoke.MemberName
+  13:           278          11120  java.lang.ref.SoftReference
+  14:           341          10912  sun.misc.FDBigInteger
+  15:           155           9920  java.net.URL
+  16:           269           6456  java.lang.Long
+  17:            81           6448  [Ljava.util.WeakHashMap$Entry;
+  18:           200           6400  java.lang.invoke.LambdaForm$Name
+Total         20781        1084776
+**** end dump @Tue Sep 22 15:25:54 IDT 2020
+**** start dump @Tue Sep 22 15:25:54 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:         11757        1511168  <methodKlass>
+   2:         11757        1445496  <constMethodKlass>
+   3:           996        1096672  <constantPoolKlass>
+   4:           923         690848  <constantPoolCacheKlass>
+   5:           996         672952  <instanceKlassKlass>
+   6:          2848         246264  [C
+   7:          1546         217712  [B
+   8:          1101         106976  java.lang.Class
+   9:          1583          94480  [S
+  10:          1570          87952  [[I
+  11:          2811          67464  java.lang.String
+  12:            88          47872  <objArrayKlassKlass>
+  13:            56          31376  <methodDataKlass>
+  14:           433          21912  [Ljava.lang.Object;
+  15:           442          14144  java.util.HashMap$Entry
+  16:           389          12448  java.util.Hashtable$Entry
+  17:           145           9280  java.net.URL
+  18:           232           9280  java.util.LinkedHashMap$Entry
+Total         44617        6573504
+**** end dump @Tue Sep 22 15:25:54 IDT 2020
+**** start dump @Tue Sep 22 15:25:54 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:          7585         976896  <methodKlass>
+   2:          7585         891600  <constMethodKlass>
+   3:           549         628744  <constantPoolKlass>
+   4:           504         384896  <constantPoolCacheKlass>
+   5:           549         373848  <instanceKlassKlass>
+   6:          2541         198888  [C
+   7:           914         189496  [B
+   8:           624          61056  java.lang.Class
+   9:          2517          60408  java.lang.String
+  10:           874          54648  [[I
+  11:           868          51672  [S
+  12:            58          31552  <objArrayKlassKlass>
+  13:           614          24560  java.util.LinkedHashMap$Entry
+  14:           318          13440  [Ljava.lang.Object;
+  15:            20          12432  <methodDataKlass>
+  16:           122           8784  java.lang.reflect.Field
+  17:           230           7928  [Ljava.lang.String;
+  18:           256           6144  java.lang.Long
+Total         28700        4057264
+**** end dump @Tue Sep 22 15:25:54 IDT 2020
+**** start dump for pid 122538 @Tue Sep 22 15:29:18 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:          7585         976896  <methodKlass>
+   2:          7585         891696  <constMethodKlass>
+   3:           549         628800  <constantPoolKlass>
+   4:           504         384928  <constantPoolCacheKlass>
+   5:           549         373848  <instanceKlassKlass>
+   6:          2538         199080  [C
+   7:           914         189592  [B
+   8:           624          61056  java.lang.Class
+   9:          2514          60336  java.lang.String
+  10:           874          54648  [[I
+  11:           868          51672  [S
+  12:            58          31552  <objArrayKlassKlass>
+  13:           614          24560  java.util.LinkedHashMap$Entry
+  14:           318          13440  [Ljava.lang.Object;
+  15:           122           8784  java.lang.reflect.Field
+  16:           230           7928  [Ljava.lang.String;
+  17:           256           6144  java.lang.Long
+  18:            20           6064  [Ljava.util.HashMap$Entry;
+Total         28618        4048584
+**** end dump for pid 122538 @Tue Sep 22 15:29:19 IDT 2020
+**** start dump for pid 7469 @Tue Sep 22 15:29:19 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:          4122         325720  [C
+   2:          1365         154776  java.lang.Class
+   3:          4115          98760  java.lang.String
+   4:          1235          66512  [Ljava.lang.Object;
+   5:           258          58536  [B
+   6:           637          39816  [I
+   7:           725          23200  java.util.HashMap$Node
+   8:           489          15648  java.util.concurrent.ConcurrentHashMap$Node
+   9:           434          13888  java.util.Hashtable$Entry
+  10:           151          13288  java.lang.reflect.Method
+  11:           297          11880  java.util.LinkedHashMap$Entry
+  12:            81          11680  [Ljava.util.HashMap$Node;
+  13:           201          11256  java.lang.invoke.MemberName
+  14:           278          11120  java.lang.ref.SoftReference
+  15:           341          10912  sun.misc.FDBigInteger
+  16:           155           9920  java.net.URL
+  17:           296           8312  [Ljava.lang.Class;
+  18:           269           6456  java.lang.Long
+Total         21244        1105704
+**** end dump for pid 7469 @Tue Sep 22 15:29:19 IDT 2020
+**** start dump for pid 7443 @Tue Sep 22 15:29:19 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:          4069         323344  [C
+   2:          1365         154776  java.lang.Class
+   3:          4062          97488  java.lang.String
+   4:          1235          66512  [Ljava.lang.Object;
+   5:           257          58512  [B
+   6:           635          39264  [I
+   7:           725          23200  java.util.HashMap$Node
+   8:           489          15648  java.util.concurrent.ConcurrentHashMap$Node
+   9:           434          13888  java.util.Hashtable$Entry
+  10:           297          11880  java.util.LinkedHashMap$Entry
+  11:            81          11680  [Ljava.util.HashMap$Node;
+  12:           201          11256  java.lang.invoke.MemberName
+  13:           278          11120  java.lang.ref.SoftReference
+  14:           341          10912  sun.misc.FDBigInteger
+  15:           155           9920  java.net.URL
+  16:           269           6456  java.lang.Long
+  17:            81           6448  [Ljava.util.WeakHashMap$Entry;
+  18:           200           6400  java.lang.invoke.LambdaForm$Name
+Total         20925        1089744
+**** end dump for pid 7443 @Tue Sep 22 15:29:19 IDT 2020
+**** start dump for pid 11401 @Tue Sep 22 15:29:19 IDT 2020
+
+ num     #instances         #bytes  class name
+----------------------------------------------
+   1:         11763        1511936  <methodKlass>
+   2:         11763        1446144  <constMethodKlass>
+   3:           999        1099672  <constantPoolKlass>
+   4:           926         693152  <constantPoolCacheKlass>
+   5:           999         674728  <instanceKlassKlass>
+   6:          2879         247736  [C
+   7:          1558         234864  [B
+   8:          1104         107240  java.lang.Class
+   9:          1586          94528  [S
+  10:          1573          88024  [[I
+  11:          2836          68064  java.lang.String
+  12:            88          47872  <objArrayKlassKlass>
+  13:            56          31376  <methodDataKlass>
+  14:           439          22248  [Ljava.lang.Object;
+  15:           443          14176  java.util.HashMap$Entry
+  16:           389          12448  java.util.Hashtable$Entry
+  17:           145           9280  java.net.URL
+  18:           232           9280  java.util.LinkedHashMap$Entry
+Total         45060        6615552
+**** end dump for pid 11401 @Tue Sep 22 15:29:19 IDT 2020
