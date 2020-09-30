@@ -1,0 +1,46 @@
+**** start dump for pid 3179647 @Wed Sep 30 14:34:32 IDT 2020
+No dump file specified
+ num     #instances         #bytes  class name (module)
+-------------------------------------------------------
+   1:         45446        3714888  [B (java.base@14.0.1)
+   2:         41028         984672  java.lang.String (java.base@14.0.1)
+   3:          5990         712360  java.lang.Class (java.base@14.0.1)
+   4:         22042         705344  java.util.concurrent.ConcurrentHashMap$Node (java.base@14.0.1)
+   5:          1737         438272  [Ljava.util.HashMap$Node; (java.base@14.0.1)
+   6:          3397         366280  [I (java.base@14.0.1)
+   7:          5280         326336  [Ljava.lang.Object; (java.base@14.0.1)
+   8:          3241         285208  java.lang.reflect.Method (java.base@14.0.1)
+   9:          7422         237504  java.util.HashMap$Node (java.base@14.0.1)
+  10:           780         225200  [C (java.base@14.0.1)
+  11:           273         180544  [Ljava.util.concurrent.ConcurrentHashMap$Node; (java.base@14.0.1)
+  12:          4032         161280  java.util.LinkedHashMap$Entry (java.base@14.0.1)
+  13:          1744         125568  java.lang.reflect.Field (java.base@14.0.1)
+  14:          4842         121576  [Ljava.lang.Class; (java.base@14.0.1)
+  15:          6596         105536  java.lang.Object (java.base@14.0.1)
+  16:          1801          72040  java.lang.ref.SoftReference (java.base@14.0.1)
+  17:          1488          71424  sun.util.locale.LocaleObjectCache$CacheEntry (java.base@14.0.1)
+Total        218965       10878792
+**** end dump for pid 3179647 @Wed Sep 30 14:34:32 IDT 2020
+**** start dump for pid 3179647 @Wed Sep 30 14:37:38 IDT 2020
+No dump file specified
+ num     #instances         #bytes  class name (module)
+-------------------------------------------------------
+   1:         42294        3524008  [B (java.base@14.0.1)
+   2:         38156         915744  java.lang.String (java.base@14.0.1)
+   3:          5935         706200  java.lang.Class (java.base@14.0.1)
+   4:         21743         695776  java.util.concurrent.ConcurrentHashMap$Node (java.base@14.0.1)
+   5:          1478         412784  [Ljava.util.HashMap$Node; (java.base@14.0.1)
+   6:          3364         365288  [I (java.base@14.0.1)
+   7:          5199         322264  [Ljava.lang.Object; (java.base@14.0.1)
+   8:           751         224432  [C (java.base@14.0.1)
+   9:          6837         218784  java.util.HashMap$Node (java.base@14.0.1)
+  10:           263         173920  [Ljava.util.concurrent.ConcurrentHashMap$Node; (java.base@14.0.1)
+  11:          2668         106720  java.util.LinkedHashMap$Entry (java.base@14.0.1)
+  12:          6602         105632  java.lang.Object (java.base@14.0.1)
+  13:          1488          71424  sun.util.locale.LocaleObjectCache$CacheEntry (java.base@14.0.1)
+  14:          1750          70000  java.lang.ref.SoftReference (java.base@14.0.1)
+  15:           905          65160  java.lang.reflect.Field (java.base@14.0.1)
+  16:           960          53760  java.util.LinkedHashMap (java.base@14.0.1)
+  17:           549          48312  java.lang.reflect.Method (java.base@14.0.1)
+Total        198510        9911288
+**** end dump for pid 3179647 @Wed Sep 30 14:37:38 IDT 2020

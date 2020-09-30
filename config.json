@@ -1,0 +1,23 @@
+{
+  "output": "./mon.log",
+  "jps_command": "../../snifit/jdk1.7.0_80/bin/jps -v ",
+  "proc_signature": "RemoteMavenServer36",
+  "probes": [
+    {
+      "name": "jmap",
+      "cmd": "../../snifit/jdk1.7.0_80/bin/jmap -histo:live ",
+      "output": "jmap.out",
+      "interval_minutes": 10,
+      "max_lines": 20,
+      "footer": "Total"
+    },
+    {
+      "name": "jstack",
+      "cmd": "../../snifit/jdk1.7.0_80/bin/jstack ",
+      "output": "jstack.out",
+      "interval_minutes": 10,
+      "max_lines": 0,
+      "footer": ""
+    }
+  ]
+}

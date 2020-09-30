@@ -10,3 +10,6 @@ jdk1.7.0_80/bin/java \
  -DMONITOR_PROC_SIGNATURE=RemoteMavenServer36 \
  -DMONITOR_INTERVAL_MINUTES=1 \
  -cp target/classes/ monitor.Monitor
+
+
+

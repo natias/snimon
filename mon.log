@@ -1,0 +1,10 @@
+about to execute ../../snifit/jdk1.7.0_80/bin/jps -v 
+Exception in thread "main" org.json.JSONException: JSONObject["footer"] not found.
+	at org.json.JSONObject.get(JSONObject.java:572)
+	at org.json.JSONObject.getString(JSONObject.java:859)
+	at monitor.Monitor.main(Monitor.java:89)
+about to execute ../../snifit/jdk1.7.0_80/bin/jmap -histo:live  3179647
+about to execute ../../snifit/jdk1.7.0_80/bin/jps -v 
+about to execute ../../snifit/jdk1.7.0_80/bin/jps -v 
+about to execute ../../snifit/jdk1.7.0_80/bin/jstack  3179647
+about to execute ../../snifit/jdk1.7.0_80/bin/jmap -histo:live  3179647
